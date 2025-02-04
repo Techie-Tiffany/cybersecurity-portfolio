@@ -1,7 +1,7 @@
 # cybersecurity-portfolio
 A portfolio for showcasing my progress and achievements in cybersecurity
 
-<u>**ABOUT ME**</u>
+#**ABOUT ME**
 
 **Name**:Tiffany Umeh
 
