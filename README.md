@@ -22,5 +22,5 @@ My experience combines **consultative sales, a high level understanding of netwo
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Techie-Tiffany?style=social)](https://github.com/Techie-Tiffany)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://wwww.linkedin.com/in/tiffanynturner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tiffanynturner)
 [![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-Enthusiast-green)](https://github.com/Techie-Tiffany)
