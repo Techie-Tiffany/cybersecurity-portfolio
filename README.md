@@ -33,6 +33,11 @@ I’m targeting industries that thrive on **innovation and security, like tech, 
 
 **Proud Project/Task:**      
 
+One of the projects I’m most proud of is **leading the restructuring of a new organization within The Home Depot’s Supply Chain Inventory and Replenishment (IPR) sector**. I took charge of organizing a completely new team, creating processes, and implementing **automation in Slack and Jira** to streamline support ticketing. This initiative not only **improved clarity and efficiency** for developers but also **increased productivity by 60%** and saved the company **millions** by reducing backlog inefficiencies.  
+
+What makes this project stand out to me is that it required **strategic leadership, problem-solving, and collaboration across multiple teams**. I had to bring structure to a chaotic environment, advocate for necessary changes, and implement solutions that made an immediate impact. Seeing the organization become more effective and witnessing the results firsthand reinforced my ability to **drive operational excellence and lead technical initiatives**.  
+
+
 [![GitHub followers](https://img.shields.io/github/followers/Techie-Tiffany?style=social)](https://github.com/Techie-Tiffany)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tiffanynturner)
 [![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-Enthusiast-green)](https://github.com/Techie-Tiffany)
