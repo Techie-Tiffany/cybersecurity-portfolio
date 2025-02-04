@@ -3,15 +3,15 @@ A portfolio for showcasing my progress and achievements in cybersecurity
 
 <u>**ABOUT ME**</u>
 
-<b>**Name**:</b> Tiffany Umeh
+**Name**:Tiffany Umeh
 
 
 
-<B>Hometown:</B> Atlanta, GA 
+**Hometown:** Atlanta, GA 
 
 
 
-<b>Prior IT Experience</b>
+**Prior IT Experience**
    
 
 I began my IT journey in **B2B sales** at **AT&T**, where I was recruited into the prestigious **Business Sales Leadership Development Program (BSLDP)**. Upon graduating, I secured a role in the **Premier Client Group (PCG)** in Charlotte, NC. In this role, I was introduced to **IoT, networking systems, routers, switches, fiber optics, and mobile applications and devices**. This exposure sparked my passion for **networking**, recognizing it as the backbone of all technology.  
